@@ -1,0 +1,9 @@
+c:\users\utente\source\repos\SimBuona\Lib\bin\Debug\netcoreapp2.0\Lib.deps.json
+c:\users\utente\source\repos\SimBuona\Lib\bin\Debug\netcoreapp2.0\Lib.dll
+c:\users\utente\source\repos\SimBuona\Lib\obj\Debug\netcoreapp2.0\Lib.csproj.CoreCompileInputs.cache
+c:\users\utente\source\repos\SimBuona\Lib\obj\Debug\netcoreapp2.0\Lib.AssemblyInfoInputs.cache
+c:\users\utente\source\repos\SimBuona\Lib\obj\Debug\netcoreapp2.0\Lib.AssemblyInfo.cs
+c:\users\utente\source\repos\SimBuona\Lib\bin\Debug\netcoreapp2.0\Lib.pdb
+c:\users\utente\source\repos\SimBuona\Lib\obj\Debug\netcoreapp2.0\Lib.dll
+c:\users\utente\source\repos\SimBuona\Lib\obj\Debug\netcoreapp2.0\Lib.pdb
+C:\Users\Utente\source\repos\SimBuona\Lib\obj\Debug\netcoreapp2.0\Lib.csprojAssemblyReference.cache

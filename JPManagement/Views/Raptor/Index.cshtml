@@ -1,0 +1,115 @@
+﻿@model List<Lib.TrackRaptExternal>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().X)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Y)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Tempo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().IdRaptor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+
+</table>
+<button class="btn btn-primary" id="previous">Previous</button>
+<button class="btn btn-primary" id="next">Next</button>
+
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    var pageNum  = 1;
+    var itemsPerPage = 4;
+    var totalItems = @Model.Count;
+    var tbody = document.getElementById("tableBody");
+    var data = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+
+    document.getElementById("previous").disabled = true;
+    compileTable();
+
+    function compileTable() {
+        for (var i = (pageNum - 1) * itemsPerPage; i <= pageNum * itemsPerPage - 1; i++) {
+            if (i < totalItems) {
+                var tr = document.createElement("tr");
+
+                var td = document.createElement("td");
+                td.innerHTML = ('<td>' + data[i]["X"] + '</td> ');
+                var td2 = document.createElement("td");
+                td2.innerHTML = ('<td>' +  data[i]["Y"] + '</td> ');
+                var td3 = document.createElement("td");
+                td3.innerHTML = ('<td>' +  data[i]["Tempo"] + '</td> ');
+                var td4 = document.createElement("td");
+                td4.innerHTML = ('<td>' +  data[i]["IdRaptor"] + '</td> ');
+                var td5 = document.createElement("td");
+                td5.innerHTML = ('<td>' +  data[i]["Id"] + '</td> ');
+                var td6 = document.createElement("td");
+                td6.innerHTML = ('<td>' +  data[i]["Name"] + '</td> ');
+                var td7 = document.createElement("td");
+                tr.appendChild(td);
+                tr.appendChild(td2);
+                tr.appendChild(td3);
+                tr.appendChild(td4);
+                tr.appendChild(td5);
+                tr.appendChild(td6);
+                tr.appendChild(td7);
+                tbody.appendChild(tr);
+            }
+
+        }
+
+
+
+
+    }
+
+
+
+    $("#next").click(function () {
+        document.getElementById("previous").disabled = false;
+        clearTable();
+        pageNum++;
+        compileTable();
+        if (totalItems < pageNum*itemsPerPage) {
+            document.getElementById("next").disabled = true;
+        }
+    });
+
+
+
+    $("#previous").click(function () {
+        document.getElementById("next").disabled = false;
+        clearTable();
+        pageNum--;
+        compileTable();
+        if (pageNum == 1) {
+            document.getElementById("previous").disabled = true;
+        };
+    });
+
+
+
+
+    function clearTable() {
+        $("#tableBody").empty();
+    }
+</script>

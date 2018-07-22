@@ -1,0 +1,16 @@
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Lib.dll
+c:\users\utente\source\repos\SimBuona\Workerino\obj\Debug\netcoreapp2.0\Workerino.csprojAssemblyReference.cache
+c:\users\utente\source\repos\SimBuona\Workerino\obj\Debug\netcoreapp2.0\Workerino.csproj.CoreCompileInputs.cache
+c:\users\utente\source\repos\SimBuona\Workerino\obj\Debug\netcoreapp2.0\Workerino.AssemblyInfoInputs.cache
+c:\users\utente\source\repos\SimBuona\Workerino\obj\Debug\netcoreapp2.0\Workerino.AssemblyInfo.cs
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\appsettings.json
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Workerino.deps.json
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Workerino.runtimeconfig.json
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Workerino.runtimeconfig.dev.json
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Workerino.dll
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Workerino.pdb
+c:\users\utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Lib.pdb
+c:\users\utente\source\repos\SimBuona\Workerino\obj\Debug\netcoreapp2.0\Workerino.csproj.CopyComplete
+c:\users\utente\source\repos\SimBuona\Workerino\obj\Debug\netcoreapp2.0\Workerino.dll
+c:\users\utente\source\repos\SimBuona\Workerino\obj\Debug\netcoreapp2.0\Workerino.pdb
+C:\Users\Utente\source\repos\SimBuona\Workerino\bin\Debug\netcoreapp2.0\Settings.job

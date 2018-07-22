@@ -1,0 +1,14 @@
+c:\users\utente\source\repos\SimBuona\JPManagement\bin\Debug\netcoreapp2.0\Lib.dll
+c:\users\utente\source\repos\SimBuona\JPManagement\obj\Debug\netcoreapp2.0\JPManagement.csprojAssemblyReference.cache
+c:\users\utente\source\repos\SimBuona\JPManagement\obj\Debug\netcoreapp2.0\JPManagement.csproj.CoreCompileInputs.cache
+c:\users\utente\source\repos\SimBuona\JPManagement\obj\Debug\netcoreapp2.0\JPManagement.AssemblyInfoInputs.cache
+c:\users\utente\source\repos\SimBuona\JPManagement\obj\Debug\netcoreapp2.0\JPManagement.AssemblyInfo.cs
+c:\users\utente\source\repos\SimBuona\JPManagement\bin\Debug\netcoreapp2.0\JPManagement.deps.json
+c:\users\utente\source\repos\SimBuona\JPManagement\bin\Debug\netcoreapp2.0\JPManagement.runtimeconfig.json
+c:\users\utente\source\repos\SimBuona\JPManagement\bin\Debug\netcoreapp2.0\JPManagement.runtimeconfig.dev.json
+c:\users\utente\source\repos\SimBuona\JPManagement\bin\Debug\netcoreapp2.0\JPManagement.dll
+c:\users\utente\source\repos\SimBuona\JPManagement\bin\Debug\netcoreapp2.0\JPManagement.pdb
+c:\users\utente\source\repos\SimBuona\JPManagement\bin\Debug\netcoreapp2.0\Lib.pdb
+c:\users\utente\source\repos\SimBuona\JPManagement\obj\Debug\netcoreapp2.0\JPManagement.csproj.CopyComplete
+c:\users\utente\source\repos\SimBuona\JPManagement\obj\Debug\netcoreapp2.0\JPManagement.dll
+c:\users\utente\source\repos\SimBuona\JPManagement\obj\Debug\netcoreapp2.0\JPManagement.pdb

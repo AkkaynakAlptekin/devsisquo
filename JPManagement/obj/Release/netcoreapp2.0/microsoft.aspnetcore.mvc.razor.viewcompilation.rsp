@@ -1,0 +1,14 @@
+c:\users\utente\source\repos\SimBuona\JPManagement
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=JPManagement
+--content-root=c:\users\utente\source\repos\SimBuona\JPManagement
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Home\About.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Home\Contact.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Home\Index.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Raptor\Index.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Raptor\RegisterRaptor.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Shared\Error.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Shared\_Layout.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\_ViewImports.cshtml
+--file=c:\users\utente\source\repos\SimBuona\JPManagement\Views\_ViewStart.cshtml

@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\SimBuona\JPApi\bin\Release\netcoreapp2.0\JPApi.deps.json
+C:\Users\Utente\source\repos\SimBuona\JPApi\bin\Release\netcoreapp2.0\JPApi.runtimeconfig.json
+C:\Users\Utente\source\repos\SimBuona\JPApi\bin\Release\netcoreapp2.0\JPApi.runtimeconfig.dev.json
+C:\Users\Utente\source\repos\SimBuona\JPApi\bin\Release\netcoreapp2.0\JPApi.dll
+C:\Users\Utente\source\repos\SimBuona\JPApi\bin\Release\netcoreapp2.0\JPApi.pdb
+C:\Users\Utente\source\repos\SimBuona\JPApi\bin\Release\netcoreapp2.0\Lib.dll
+C:\Users\Utente\source\repos\SimBuona\JPApi\bin\Release\netcoreapp2.0\Lib.pdb
+C:\Users\Utente\source\repos\SimBuona\JPApi\obj\Release\netcoreapp2.0\JPApi.csprojAssemblyReference.cache
+C:\Users\Utente\source\repos\SimBuona\JPApi\obj\Release\netcoreapp2.0\JPApi.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\SimBuona\JPApi\obj\Release\netcoreapp2.0\JPApi.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\SimBuona\JPApi\obj\Release\netcoreapp2.0\JPApi.AssemblyInfo.cs
+C:\Users\Utente\source\repos\SimBuona\JPApi\obj\Release\netcoreapp2.0\JPApi.csproj.CopyComplete
+C:\Users\Utente\source\repos\SimBuona\JPApi\obj\Release\netcoreapp2.0\JPApi.dll
+C:\Users\Utente\source\repos\SimBuona\JPApi\obj\Release\netcoreapp2.0\JPApi.pdb
